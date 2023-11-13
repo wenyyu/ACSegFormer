@@ -23,7 +23,6 @@ Some pretrained weights are required for ACSegFormer. Save them to `./pretrained
 
 ## Datasets and Models
 **Cityscapes**:  [Cityscape](https://www.cityscapes-dataset.com/) 
-**NightCity**:  [NightCity](https://dmcv.sjtu.edu.cn/people/phd/tanxin/NightCity/index.html/) 
 **ACDC**:  [ACDC](https://acdc.vision.ee.ethz.ch/) 
 **Dark-Zurich**: [Dark-Zurich](https://www.trace.ethz.ch/publications/2019/GCMA_UIoU/)  
 
